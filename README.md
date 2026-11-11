@@ -12,6 +12,10 @@ Ce dépôt ne contient que les versions publiées de l’application.
 
 Configuration requise : Mac Apple Silicon (M1 ou plus récent), macOS 13 ou plus récent.
 
+## Importer un terrain SketchUp
+
+JARDIN peut reprendre un terrain, ses zones de sol et ses constructions dessinés dans SketchUp, avec l’extension `jardin_export.rbz` fournie dans chaque version. Méthode complète : [Modéliser son terrain dans SketchUp](modeliser-dans-sketchup.md).
+
 ## Mises à jour
 
 Au lancement, JARDIN vérifie s’il existe une nouvelle version et propose de l’installer. Elle s’applique au lancement suivant.
